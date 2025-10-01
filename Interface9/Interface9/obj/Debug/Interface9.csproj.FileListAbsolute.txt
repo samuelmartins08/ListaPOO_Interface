@@ -1,0 +1,11 @@
+C:\Users\gilbe\source\repos\Interface9\Interface9\bin\Debug\Interface9.exe.config
+C:\Users\gilbe\source\repos\Interface9\Interface9\bin\Debug\Interface9.exe
+C:\Users\gilbe\source\repos\Interface9\Interface9\bin\Debug\Interface9.pdb
+C:\Users\gilbe\source\repos\Interface9\Interface9\obj\Debug\Interface9.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\Interface9\Interface9\obj\Debug\Interface9.Form1.resources
+C:\Users\gilbe\source\repos\Interface9\Interface9\obj\Debug\Interface9.Properties.Resources.resources
+C:\Users\gilbe\source\repos\Interface9\Interface9\obj\Debug\Interface9.csproj.GenerateResource.cache
+C:\Users\gilbe\source\repos\Interface9\Interface9\obj\Debug\Interface9.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\Interface9\Interface9\obj\Debug\Interface9.exe
+C:\Users\gilbe\source\repos\Interface9\Interface9\obj\Debug\Interface9.pdb
+C:\Users\gilbe\source\repos\Interface9\Interface9\obj\Debug\Interface9.exe.config

@@ -1,0 +1,11 @@
+C:\Users\gilbe\source\repos\Interface1\Interface1\bin\Debug\Interface1.exe.config
+C:\Users\gilbe\source\repos\Interface1\Interface1\bin\Debug\Interface1.exe
+C:\Users\gilbe\source\repos\Interface1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\gilbe\source\repos\Interface1\Interface1\obj\Debug\Interface1.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\Interface1\Interface1\obj\Debug\Interface1.Form1.resources
+C:\Users\gilbe\source\repos\Interface1\Interface1\obj\Debug\Interface1.Properties.Resources.resources
+C:\Users\gilbe\source\repos\Interface1\Interface1\obj\Debug\Interface1.csproj.GenerateResource.cache
+C:\Users\gilbe\source\repos\Interface1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\Interface1\Interface1\obj\Debug\Interface1.exe
+C:\Users\gilbe\source\repos\Interface1\Interface1\obj\Debug\Interface1.pdb
+C:\Users\gilbe\source\repos\Interface1\Interface1\obj\Debug\Interface1.exe.config

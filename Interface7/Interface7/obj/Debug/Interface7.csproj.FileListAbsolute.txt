@@ -1,0 +1,10 @@
+C:\Users\gilbe\source\repos\Interface7\Interface7\bin\Debug\Interface7.exe.config
+C:\Users\gilbe\source\repos\Interface7\Interface7\bin\Debug\Interface7.exe
+C:\Users\gilbe\source\repos\Interface7\Interface7\bin\Debug\Interface7.pdb
+C:\Users\gilbe\source\repos\Interface7\Interface7\obj\Debug\Interface7.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\Interface7\Interface7\obj\Debug\Interface7.Form1.resources
+C:\Users\gilbe\source\repos\Interface7\Interface7\obj\Debug\Interface7.Properties.Resources.resources
+C:\Users\gilbe\source\repos\Interface7\Interface7\obj\Debug\Interface7.csproj.GenerateResource.cache
+C:\Users\gilbe\source\repos\Interface7\Interface7\obj\Debug\Interface7.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\Interface7\Interface7\obj\Debug\Interface7.exe
+C:\Users\gilbe\source\repos\Interface7\Interface7\obj\Debug\Interface7.pdb

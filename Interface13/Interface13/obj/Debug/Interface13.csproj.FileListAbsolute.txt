@@ -1,0 +1,11 @@
+C:\Users\gilbe\source\repos\Interface13\Interface13\bin\Debug\Interface13.exe.config
+C:\Users\gilbe\source\repos\Interface13\Interface13\bin\Debug\Interface13.exe
+C:\Users\gilbe\source\repos\Interface13\Interface13\bin\Debug\Interface13.pdb
+C:\Users\gilbe\source\repos\Interface13\Interface13\obj\Debug\Interface13.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\Interface13\Interface13\obj\Debug\Interface13.Form1.resources
+C:\Users\gilbe\source\repos\Interface13\Interface13\obj\Debug\Interface13.Properties.Resources.resources
+C:\Users\gilbe\source\repos\Interface13\Interface13\obj\Debug\Interface13.csproj.GenerateResource.cache
+C:\Users\gilbe\source\repos\Interface13\Interface13\obj\Debug\Interface13.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\Interface13\Interface13\obj\Debug\Interface13.exe
+C:\Users\gilbe\source\repos\Interface13\Interface13\obj\Debug\Interface13.pdb
+C:\Users\gilbe\source\repos\Interface13\Interface13\obj\Debug\Interface13.exe.config

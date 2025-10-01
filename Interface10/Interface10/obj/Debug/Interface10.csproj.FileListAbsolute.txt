@@ -1,0 +1,10 @@
+C:\Users\gilbe\source\repos\Interface10\Interface10\bin\Debug\Interface10.exe.config
+C:\Users\gilbe\source\repos\Interface10\Interface10\bin\Debug\Interface10.exe
+C:\Users\gilbe\source\repos\Interface10\Interface10\bin\Debug\Interface10.pdb
+C:\Users\gilbe\source\repos\Interface10\Interface10\obj\Debug\Interface10.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\Interface10\Interface10\obj\Debug\Interface10.Form1.resources
+C:\Users\gilbe\source\repos\Interface10\Interface10\obj\Debug\Interface10.Properties.Resources.resources
+C:\Users\gilbe\source\repos\Interface10\Interface10\obj\Debug\Interface10.csproj.GenerateResource.cache
+C:\Users\gilbe\source\repos\Interface10\Interface10\obj\Debug\Interface10.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\Interface10\Interface10\obj\Debug\Interface10.exe
+C:\Users\gilbe\source\repos\Interface10\Interface10\obj\Debug\Interface10.pdb

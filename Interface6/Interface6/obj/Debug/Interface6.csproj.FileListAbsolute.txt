@@ -1,0 +1,10 @@
+C:\Users\gilbe\source\repos\Interface6\Interface6\bin\Debug\Interface6.exe.config
+C:\Users\gilbe\source\repos\Interface6\Interface6\bin\Debug\Interface6.exe
+C:\Users\gilbe\source\repos\Interface6\Interface6\bin\Debug\Interface6.pdb
+C:\Users\gilbe\source\repos\Interface6\Interface6\obj\Debug\Interface6.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\Interface6\Interface6\obj\Debug\Interface6.Form1.resources
+C:\Users\gilbe\source\repos\Interface6\Interface6\obj\Debug\Interface6.Properties.Resources.resources
+C:\Users\gilbe\source\repos\Interface6\Interface6\obj\Debug\Interface6.csproj.GenerateResource.cache
+C:\Users\gilbe\source\repos\Interface6\Interface6\obj\Debug\Interface6.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\Interface6\Interface6\obj\Debug\Interface6.exe
+C:\Users\gilbe\source\repos\Interface6\Interface6\obj\Debug\Interface6.pdb
